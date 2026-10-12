@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.biomassresourcegroup.com/sitemap.xml
+Sitemap: https://biomassresourcegroup.com/sitemap.xml
